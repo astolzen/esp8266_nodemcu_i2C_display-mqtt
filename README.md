@@ -16,6 +16,6 @@ This Script requires a recent NodeMCU-Firmware with Support for:
   * MQTT
   * U8G
 
-and it uses the U8G-Fonts //6x10// and //fub17//. In built the NodeMCU Environment on http://frightanic.com/nodemcu-custom-build/
+and it uses the U8G-Fonts __6x10__ and __fub17__. In built the NodeMCU Environment on http://frightanic.com/nodemcu-custom-build/
 
 The idea behind this: A second esp8266 module, equipped with Temeratur Sensors delivers Temperature Data to MQTT, which the is displayed on the U8G-Display.
